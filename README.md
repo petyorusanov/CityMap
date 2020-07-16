@@ -1,3 +1,3 @@
 # CityMap
 
-A project for the SDP course in FMI.
+Project description is in file Карта на град.docx
