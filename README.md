@@ -1,3 +1,3 @@
 # CityMap
 
-Project description is in file Карта на град.docx
+Project description can be found in Карта на град.docx
