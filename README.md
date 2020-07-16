@@ -1,3 +1,3 @@
 # CityMap
 
-Project description can be found in Карта на град.docx
+Описанието на проекта се намира във файла Карта на град.docx
